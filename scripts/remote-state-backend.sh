@@ -3,7 +3,7 @@
 RESOURCE_GROUP_NAME=tstate
 STORAGE_ACCOUNT_NAME=tstate$RANDOM
 CONTAINER_NAME=tstate
-KEYVAULT_NAME=tkeyvault
+KEYVAULT_NAME=tRahulKeyVault
 
 # Create resource group
 echo "Creating $RESOURCE_GROUP_NAME resource group..."
